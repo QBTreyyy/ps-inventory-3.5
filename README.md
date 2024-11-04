@@ -16,7 +16,7 @@ Future updates will be coming and we will of course support all normal monitor s
 
 ### Full Inventory
 
-![image](https://github.com/Project-Sloth/ps-inventory/assets/82112471/fda2588d-e468-4fd5-8bf5-2f584f059609)
+![image](https://i.ibb.co/nr0jW6q/invvvv.png).
 
 ### Options Menu
 
