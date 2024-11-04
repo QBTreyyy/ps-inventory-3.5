@@ -1,6 +1,8 @@
 # ps-inventory-3.5
 ps-inventory 3.5 Inspired With Protected Slots
 
+# JOIN OUR DISCORD AT https://discord.gg/2vAxvqEX
+
 
 # PS-Inventory Edit  --ALL CREDITS GO TO PROJECT SLOTH THIS WAS JUST EDITED FOR GHOSTED RP WITH ADDED FEATURES
 
