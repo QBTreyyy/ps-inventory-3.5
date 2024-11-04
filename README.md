@@ -35,6 +35,9 @@ Future updates will be coming and we will of course support all normal monitor s
 
 # Key Features
 
+* 5th slot removed
+* Protected slots and jewelry slots 
+* INVENTORY BUFF SYSTEM CONNECTED (custom weight buff system)
 * ALL IMAGES FOLLOW THE SAME DIMENSIONS
 * Easy Photoshop guideline template for creating custom images within ps-inventory
 * Custom brand logo above option buttons
