@@ -17,6 +17,10 @@ Future updates will be coming and we will of course support all normal monitor s
 
 ![image](https://i.ibb.co/nr0jW6q/invvvv.png).
 
+### Custom Edits 
+
+![image](https://i.ibb.co/qrc1dZv/jewlery.png)
+
 ### Store Preview
 
 ![image](https://i.ibb.co/NKsQgFZ/hardware.png)
